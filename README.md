@@ -1,5 +1,8 @@
 # @foxglove/rosbag &nbsp; [![npm version](https://img.shields.io/npm/v/@foxglove/rosbag.svg?style=flat)](https://www.npmjs.com/package/@foxglove/rosbag)
 
+> [!IMPORTANT]
+> This package has moved to https://github.com/foxglove/ros-typescript.
+
 `@foxglove/rosbag` is a node.js & browser compatible module for reading [rosbag](http://wiki.ros.org/rosbag) binary data files.
 
 ## Installation
